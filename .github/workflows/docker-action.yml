@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: pazzio/KIII-5:latest
+          tags: pazzio/kiii-5:latest
